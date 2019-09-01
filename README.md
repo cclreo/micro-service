@@ -1,6 +1,6 @@
 # micro-service
 
-## 微服务框架搭建
+## 微服务框架
 
   [tmri-palte](https://github.com/cclreo/tmri-plate)
   
@@ -17,4 +17,4 @@
   
 ## 微服务运维平台
 
-  完善中
+ admin
